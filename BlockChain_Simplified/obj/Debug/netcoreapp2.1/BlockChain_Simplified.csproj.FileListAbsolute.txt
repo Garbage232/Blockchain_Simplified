@@ -1,0 +1,13 @@
+C:\Users\md6781\source\repos\BlockChain_Simplified\bin\Debug\netcoreapp2.1\BlockChain_Simplified.deps.json
+C:\Users\md6781\source\repos\BlockChain_Simplified\bin\Debug\netcoreapp2.1\BlockChain_Simplified.runtimeconfig.json
+C:\Users\md6781\source\repos\BlockChain_Simplified\bin\Debug\netcoreapp2.1\BlockChain_Simplified.runtimeconfig.dev.json
+C:\Users\md6781\source\repos\BlockChain_Simplified\bin\Debug\netcoreapp2.1\BlockChain_Simplified.dll
+C:\Users\md6781\source\repos\BlockChain_Simplified\bin\Debug\netcoreapp2.1\BlockChain_Simplified.pdb
+C:\Users\md6781\source\repos\BlockChain_Simplified\obj\Debug\netcoreapp2.1\BlockChain_Simplified.csproj.AssemblyReference.cache
+C:\Users\md6781\source\repos\BlockChain_Simplified\obj\Debug\netcoreapp2.1\BlockChain_Simplified.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md6781\source\repos\BlockChain_Simplified\obj\Debug\netcoreapp2.1\BlockChain_Simplified.AssemblyInfoInputs.cache
+C:\Users\md6781\source\repos\BlockChain_Simplified\obj\Debug\netcoreapp2.1\BlockChain_Simplified.AssemblyInfo.cs
+C:\Users\md6781\source\repos\BlockChain_Simplified\obj\Debug\netcoreapp2.1\BlockChain_Simplified.csproj.CoreCompileInputs.cache
+C:\Users\md6781\source\repos\BlockChain_Simplified\obj\Debug\netcoreapp2.1\BlockChain_Simplified.dll
+C:\Users\md6781\source\repos\BlockChain_Simplified\obj\Debug\netcoreapp2.1\BlockChain_Simplified.pdb
+C:\Users\md6781\source\repos\BlockChain_Simplified\obj\Debug\netcoreapp2.1\BlockChain_Simplified.genruntimeconfig.cache
